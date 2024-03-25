@@ -1,0 +1,23 @@
+
+
+.successpayment-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 500px;
+    margin: 50px auto; 
+    align-items: center;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  

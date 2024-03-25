@@ -1,0 +1,64 @@
+.page-container {
+  background-color: #fae3e3;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment-container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  width: 800px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.col {
+  width: 48%;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.inputBox {
+  margin-bottom: 15px;
+}
+
+.inputBox span {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-container {
+  width: 100px;
+}
+
+.Submit-btn {
+  background-color: #f3488a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 0 auto; /* Add margin:auto to center horizontally */
+  display: block; /* Ensure the button takes up full width */
+}
+
+.Submit-btn:hover {
+  background-color: #d02e6a;
+}
+  
+  

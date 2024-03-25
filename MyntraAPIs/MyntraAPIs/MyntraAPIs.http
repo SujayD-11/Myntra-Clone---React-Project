@@ -1,0 +1,6 @@
+@MyntraAPIs_HostAddress = http://localhost:5073
+
+GET {{MyntraAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

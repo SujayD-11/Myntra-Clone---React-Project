@@ -1,0 +1,144 @@
+/* NewProduct.css */
+/* NewProduct.css */
+ 
+.product-card {
+    /* Your existing styles */
+    background-color: #ffffff; /* Myntra card background color */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Myntra card shadow */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Align button to the bottom */
+    transition: transform 0.3s ease; /* Add transition effect */
+}
+ 
+.product-card:hover {
+    transform: scale(1.05); /* Zoom in effect on hover */
+}
+ 
+.product-image {
+   
+    transition: transform 0.3s ease; /* Add transition effect */
+}
+ 
+.product-card:hover .product-image {
+    transform: scale(1.5); /* Zoom in effect on hover */
+}
+ 
+.product-info {
+    /* Your existing styles */
+    text-align: center;
+}
+
+.myContainer{
+    background-color: #fae3e3;
+
+}
+ 
+.product-card {
+    /* Your existing styles */
+    background-color: #ffffff; /* Myntra card background color */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Myntra card shadow */
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Align button to the bottom */
+}
+ 
+/* .product-image {
+    width: 100%;
+    height: 200px; /* Fixed height for images */
+    /* object-fit: cover; Ensure the entire image is visible within the container
+ } */
+ 
+ 
+.product-info {
+    /* Your existing styles */
+    text-align: center;
+}
+ 
+.heading {
+    font-family: 'Arial', sans-serif; /* Myntra font family */
+    font-size: 24px;
+    font-weight: bold;
+    color: #333333; /* Myntra primary text color */
+    margin-bottom: 20px;
+}
+ 
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    
+}
+ 
+.product-card {
+    background-color: #ffffff; /* Myntra card background color */
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Myntra card shadow */
+    padding: 20px;
+    justify-content: space-between; /* Align button to the bottom */
+    position: relative; /* Required for absolute positioning of buttons */
+}
+ 
+/* .product-image {
+    width: 100%;
+    height: auto;
+} */
+ 
+.product-info {
+    text-align: center;
+}
+ 
+.product-name {
+    font-family: 'Arial', sans-serif; /* Myntra font family */
+    font-size: 16px;
+    color: #333333; /* Myntra primary text color */
+    margin-bottom: 10px;
+}
+ 
+.product-price {
+    font-family: 'Arial', sans-serif; /* Myntra font family */
+    font-size: 14px;
+    color: #888888; /* Myntra secondary text color */
+    margin-bottom: 10px;
+}
+ 
+.add-to-cart-btn {
+    font-family: 'Arial', sans-serif; /* Myntra font family */
+    font-size: 14px;
+    color: #ffffff; /* Text color for buttons */
+    background-color: white; /* Myntra orange color */
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+ 
+.add-to-cart-btn:hover {
+    background-color: #ea87cc; /* Darker shade of Myntra orange on hover */
+}
+ 
+.wishlist-cart-btn:hover {
+    background-color:  #ea87cc;
+}
+ 
+body {
+    background-color: #fae3e3;
+   
+}
+ 
+.wishlist-cart-btn{
+    font-family: 'Arial', sans-serif; /* Myntra font family */
+    font-size: 14px;
+    color: #ffffff; /* Text color for buttons */
+    background-color: white; /* Myntra orange color */
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}

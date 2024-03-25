@@ -1,0 +1,556 @@
+{
+	"Cat": [
+		{
+			"id": 0,
+			"type": "Men",
+			"subcategoryName": "Analog Watches",
+			"image": "https://th.bing.com/th?id=OIP.v1iRHKekahddxXHYHIH0VAHaJ3&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 1,
+			"type": "Men",
+			"subcategoryName": "Backpacks",
+			"image": "https://th.bing.com/th?id=OIP.LljGxe8L_PxIuZrpcKfw2gHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 2,
+			"type": "Men",
+			"subcategoryName": "Blazers",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.EN6qyyxh0n6bVW-lCTC4pQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 3,
+			"type": "Men",
+			"subcategoryName": "Bracelet",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.jSgJdLKfWrUH8TCZA4djxAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 4,
+			"type": "Men",
+			"subcategoryName": "Caps",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.Ub66xBNY-ai2J-e0AHZZQQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 5,
+			"type": "Men",
+			"subcategoryName": "Duffel Bag",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.MHHbfU18FfpFZmt_Hbz_lAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 6,
+			"type": "Men",
+			"subcategoryName": "Formals",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.ng2IGh3dkwIknASWVcoTFAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 7,
+			"type": "Men",
+			"subcategoryName": "Handkerchiefs",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.SrdPlwDzODbXboqjpiiprAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 8,
+			"type": "Men",
+			"subcategoryName": "Headbands",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.8warI34U0t-l1rHlLbXUHAHaHi?w=206&h=210&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 9,
+			"type": "Men",
+			"subcategoryName": "Helmets & Gears",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.yn1YFMrWmoVU0xgADrgB7wHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 10,
+			"type": "Men",
+			"subcategoryName": "Jeans",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.tm8AtYUV23w1RNTn9ZyJwQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 11,
+			"type": "Men",
+			"subcategoryName": "Kurtas",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.0sfjmWRQqeTBCofJd0oeLAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 12,
+			"type": "Men",
+			"subcategoryName": "Orthopedic Shoes",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.Hz3Srr08fC0u4RK-r1drAAHaEj?w=315&h=193&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 13,
+			"type": "Men",
+			"subcategoryName": "Perfumes & Deos",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.XF9qvmvPsN7JvuX467HbaAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 14,
+			"type": "Men",
+			"subcategoryName": "Rings",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.WoWMOiQkrq4vUpH_a9Y2lgHaGz?w=238&h=219&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 15,
+			"type": "Men",
+			"subcategoryName": "Shaving Kit",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.FfhlRcU2iKrda1soNPFf8wHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 16,
+			"type": "Men",
+			"subcategoryName": "Shirt",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.ZndQ92WFMgpf4GtguKtIAAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 17,
+			"type": "Men",
+			"subcategoryName": "Slippers",
+			"image": "https://www.bing.com/th?id=OIP.bWZGdFzjXSq-Q5K6bS2n5QHaJ4&w=150&h=200&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 18,
+			"type": "Men",
+			"subcategoryName": "Suits",
+			"image": "https://th.bing.com/th?id=OIP.VwFPH0dyPjEC50rSJxi4NwHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 19,
+			"type": "Men",
+			"subcategoryName": "Suspenders",
+			"image": "https://www.bing.com/th?id=OIP.zhl_nIJ3OBemj5SUrP-2xQHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 20,
+			"type": "Men",
+			"subcategoryName": "T Shirts",
+			"image": "https://www.bing.com/th?id=OIP.SkMuE8fd5mB2terZ4UnKCgHaJ4&w=216&h=288&c=8&rs=1&qlt=90&o=6&dpr=1.5&pid=3.1&rm=2"
+		},
+		{
+			"id": 21,
+			"type": "Men",
+			"subcategoryName": "Tie",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.Izo0ATFV8x8w2R4NAgnMNwHaJ4?rs=1&pid=ImgDetMain"
+		},
+		{
+			"id": 22,
+			"type": "Men",
+			"subcategoryName": "Trouser",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.AyYH_dOZV0PqeGf64rgC0AHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 23,
+			"type": "Men",
+			"subcategoryName": "Wallet",
+			"image": "https://tse4.mm.bing.net/th/id/OIP._OIJZWwVJVNpbeCBCLOocAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 24,
+			"type": "Unisex",
+			"subcategoryName": "Analog Watches",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.2Jh0V1IqO7pZplGmfdvASgHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 25,
+			"type": "Unisex",
+			"subcategoryName": "Boots",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.wQtd9SKdPNkmVHeqtLoJfAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 26,
+			"type": "Unisex",
+			"subcategoryName": "Caps",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.q_xZkSZ9aIRc4ZMHJhwyQgHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 27,
+			"type": "Unisex",
+			"subcategoryName": "Casuals",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.mPDGy5vp1gPybg5o_yUxGwHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 28,
+			"type": "Unisex",
+			"subcategoryName": "Duffel Bag",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.MiiYunwKpzHuCP-_2rJnsgHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 29,
+			"type": "Unisex",
+			"subcategoryName": "Face",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.qsa1eyzoT7z8J27r7gzdAQHaE-?w=202&h=135&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 30,
+			"type": "Unisex",
+			"subcategoryName": "Gloves",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.TCvVtpUHZaGB7FGIVY0xQQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 31,
+			"type": "Unisex",
+			"subcategoryName": "Hair Colour",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.pjuMl5wU13RJNlDp39NTcwHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 32,
+			"type": "Unisex",
+			"subcategoryName": "Headbands",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.NGZxGu6eQ35KrbPz5q5kFQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 33,
+			"type": "Unisex",
+			"subcategoryName": "Helmets & Gears",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.e0dHYMulC7d1SD_Giv0pygHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 34,
+			"type": "Unisex",
+			"subcategoryName": "Laptop Bags",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.hJh5vF_5Dmhocb9Ta146rgHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 35,
+			"type": "Unisex",
+			"subcategoryName": "Orthopedic Shoes",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.78frvLoFrMRuESfVz9zmsgHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 36,
+			"type": "Unisex",
+			"subcategoryName": "Rings",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.q5Kn-TI0-MnTgRwNTl6dPAHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 37,
+			"type": "Unisex",
+			"subcategoryName": "Sandals",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.DtdALuhxD0qVJZWapoI81AAAAA?w=203&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 38,
+			"type": "Unisex",
+			"subcategoryName": "Shorts",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.bxSspa32TNuCaxD4kdYbbAHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 39,
+			"type": "Unisex",
+			"subcategoryName": "Skin Care",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.cyK8GQn1_cF4cPmWDdXx4gHaFh?w=241&h=181&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 40,
+			"type": "Unisex",
+			"subcategoryName": "Skincare",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.cyK8GQn1_cF4cPmWDdXx4gHaFh?w=241&h=181&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 41,
+			"type": "Unisex",
+			"subcategoryName": "Sneakers",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.2SPIY-DN9ofnKGZZCahlvAHaE0?w=295&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 42,
+			"type": "Unisex",
+			"subcategoryName": "Socks",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.dS1goRfAdnhAVhiFZZuHRwHaGa?w=225&h=196&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 43,
+			"type": "Unisex",
+			"subcategoryName": "Sports",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.oQAOtMz0HF_lA2TuFGQKVwHaHa?w=212&h=212&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 44,
+			"type": "Unisex",
+			"subcategoryName": "Suitcase",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.lX9yHvGPrpliXFs5YwYECQHaHa?w=202&h=203&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 45,
+			"type": "Unisex",
+			"subcategoryName": "Sunglasses",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.TVvvKOJN6Rnx4O0amf0UyAHaDR?w=339&h=154&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 46,
+			"type": "Unisex",
+			"subcategoryName": "Sunscreen",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.KQlL4g_nx5qX28gyJvSCdQHaHa?w=149&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 47,
+			"type": "Unisex",
+			"subcategoryName": "T Shirts",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.E6jubV66SCtZM1BkCZgaiwHaJ4?w=135&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 48,
+			"type": "Unisex",
+			"subcategoryName": "Trouser",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.o_l08UT-Rue4LJwxOG9cvAHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 49,
+			"type": "Unisex",
+			"subcategoryName": "Yoga",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.zWfL2qouzj4C5RjF8evulQHaF5?w=226&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 50,
+			"type": "Women",
+			"subcategoryName": "Analog Watches",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.zSsweSZercJy0HPEvp0vdgHaHa?w=219&h=219&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 51,
+			"type": "Women",
+			"subcategoryName": "Anklet",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.Kl68J3c4SH1imHyIPxRkCAHaF7?w=269&h=214&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 52,
+			"type": "Women",
+			"subcategoryName": "Backpacks",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.qyFMXvTV93ixf5c7HBM91AHaKn?w=149&h=213&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 53,
+			"type": "Women",
+			"subcategoryName": "Bangles",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.ZOKUnpxFJd9n2sw7wGp3SgHaG3?w=206&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 54,
+			"type": "Women",
+			"subcategoryName": "Blazers",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.diIPJndV1NKydJSZRV4WGAHaK-?w=202&h=300&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 55,
+			"type": "Women",
+			"subcategoryName": "Boots",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.8y73_beeisYhEhmvAzNxXwHaHa?w=218&h=218&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 56,
+			"type": "Women",
+			"subcategoryName": "Bracelet",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.skO4vLFpzqqZ03kfoKQthQHaGh?w=211&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 57,
+			"type": "Women",
+			"subcategoryName": "Caps",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.UGac6xWqfl0_nChkMKb7BwHaGb?w=233&h=202&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 58,
+			"type": "Women",
+			"subcategoryName": "Crocs",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.z7qtNo96ajCbmqcPbW3ExgHaGc?w=220&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 59,
+			"type": "Women",
+			"subcategoryName": "Dresses",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.xQnqFzFjEoD7QtlE-QvCfwHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 60,
+			"type": "Women",
+			"subcategoryName": "Earings",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.mLOtUxOlmwDEtwzzrKm8FAHaHa?w=216&h=215&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 61,
+			"type": "Women",
+			"subcategoryName": "Eyes",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.DmWEDjNaKAAGAsru4iy2lgAAAA?w=188&h=187&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 62,
+			"type": "Women",
+			"subcategoryName": "Feminine Hygiene",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.Mjen767ET4a698mVU2IoYQHaHa?w=141&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 63,
+			"type": "Women",
+			"subcategoryName": "Formals",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.UUJGPNAEfiEo75akXnQhZQHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 64,
+			"type": "Women",
+			"subcategoryName": "Gloves",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.yfKhW9oZXAyvZmaWISAkBgHaHZ?w=192&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 65,
+			"type": "Women",
+			"subcategoryName": "Handbags",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.p8zDjM3VVD_lq-5jx-TghAHaHa?w=205&h=206&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 66,
+			"type": "Women",
+			"subcategoryName": "Handkerchiefs",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.4OPL3A7lr65vHw86-4UruQHaFg?w=248&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 67,
+			"type": "Women",
+			"subcategoryName": "Headbands",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.lQzJ7h11yxijCsm4NT1I2wHaJ4?w=154&h=206&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 68,
+			"type": "Women",
+			"subcategoryName": "Heels",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.aptqE44tGSy4JXTnJhESGAEsEs?w=190&h=191&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 69,
+			"type": "Women",
+			"subcategoryName": "Jeans",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.GreZ2L_1cVhaRXDjyxK5bAHaJ4?w=202&h=270&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 70,
+			"type": "Women",
+			"subcategoryName": "Jewellery Set",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.WcN0G9st5Lux9jW2UWuM0wHaHa?w=215&h=215&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 71,
+			"type": "Women",
+			"subcategoryName": "Jump Suits",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.ocSnqqOFj9yqOyITw5w2bAHaKG?w=202&h=275&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 72,
+			"type": "Women",
+			"subcategoryName": "Jumpsuits",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.ocSnqqOFj9yqOyITw5w2bAHaKG?w=202&h=275&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 73,
+			"type": "Women",
+			"subcategoryName": "Kurtas",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.TXvlArqz3momg91pXx0R8gHaIq?w=202&h=236&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 74,
+			"type": "Women",
+			"subcategoryName": "Lehenga Choli",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.MK4RmiwoNgAn_v6FudYqKQHaJQ?w=202&h=253&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 75,
+			"type": "Women",
+			"subcategoryName": "Lipsticks",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.toSRlagAm5hZjUyROCoK2wHaFo?w=223&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 76,
+			"type": "Women",
+			"subcategoryName": "Nails",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.fiq1C2LhyUS5kZ2ZiDZC4AHaGc?w=229&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 77,
+			"type": "Women",
+			"subcategoryName": "Pencil Skirt",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.cHPSLDNCKnWhtIQXeX8NKQHaJ4?w=202&h=269&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 78,
+			"type": "Women",
+			"subcategoryName": "Pendants",
+			"image": "https://tse4.mm.bing.net/th/id/OIP._moA-pk1eonY1FkoRntMtAHaHa?w=202&h=203&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 79,
+			"type": "Women",
+			"subcategoryName": "Perfumes & Deos",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.5qSruNmnl0EdHFWLEv4NkwHaIl?w=142&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 80,
+			"type": "Women",
+			"subcategoryName": "Razor & Trimmer",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.qKa3igFc3vuZNwkJC4y0CgHaHa?w=188&h=188&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 81,
+			"type": "Women",
+			"subcategoryName": "Salvar Suit",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.vU1vL00gUycT_DNAwKQJ7QHaKX?w=202&h=349&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 82,
+			"type": "Women",
+			"subcategoryName": "Saree",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.epCL7GBV1tMnmxvvGrGP2wHaJ4?w=202&h=337&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 83,
+			"type": "Women",
+			"subcategoryName": "Shirt",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.qGeozjYy2qvCaTYZTiqIxAHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 84,
+			"type": "Women",
+			"subcategoryName": "Shorts",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.bxSspa32TNuCaxD4kdYbbAHaHa?w=186&h=186&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 85,
+			"type": "Women",
+			"subcategoryName": "Skirt",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.2tCpmHnSrlVm5VKiOIbJ7wHaKu?rs=1&pid=ImgDetMain"
+		},
+		{
+			"id": 86,
+			"type": "Women",
+			"subcategoryName": "Socks",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.XpA7DTvX43m9LwVRo_ocFwHaHa?w=179&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 87,
+			"type": "Women",
+			"subcategoryName": "Suspenders",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.9yt0-u-Vsd5whBQsWjY0EAHaJQ?w=160&h=200&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 88,
+			"type": "Women",
+			"subcategoryName": "T Shirts",
+			"image": "https://tse2.mm.bing.net/th/id/OIP.NfPJWtYfb-O4cuNWR3XxkwHaLJ?w=202&h=304&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 89,
+			"type": "Women",
+			"subcategoryName": "Tie",
+			"image": "https://tse4.mm.bing.net/th/id/OIP.FA_pL3HaYv0fOsVQsK3J5wHaNG?w=187&h=332&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 90,
+			"type": "Women",
+			"subcategoryName": "Wallet",
+			"image": "https://tse3.mm.bing.net/th/id/OIP.pD8FJ2y8zIXB_I7_RgaShQHaHa?w=217&h=217&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		},
+		{
+			"id": 91,
+			"type": "Women",
+			"subcategoryName": "Saree",
+			"image": "https://tse1.mm.bing.net/th/id/OIP.RFYxzsnSY_9zS6lLw-gLdAHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+		}
+	]
+}

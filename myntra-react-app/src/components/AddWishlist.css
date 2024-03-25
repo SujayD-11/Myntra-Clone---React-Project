@@ -1,0 +1,92 @@
+/* NewWishlist.css */
+
+/* Container styles */
+.wishlist-container {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.wishlist-cart-quantity {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+
+/* Wishlist cards container */
+.wishlist-cards {
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+/* Wishlist card styles */
+.wishlist-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding: 15px;
+    width: calc(1000% - 20px); /* Adjust the width as per your preference */
+}
+
+/* Wishlist product image styles */
+.wishlist-product-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+/* Wishlist details container */
+.wishlist-details {
+    flex-grow: 1;
+}
+
+/* Wishlist product name styles */
+.wishlist-product-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 5px;
+}
+
+/* Wishlist amount styles */
+.wishlist-amount {
+    font-size: 14px;
+    color: #666666;
+    margin-bottom: 5px;
+}
+
+/* Wishlist actions container */
+.wishlist-actions {
+    display: flexbox;
+}
+
+/* Wishlist button styles */
+.wishlist-btn{
+    background-color: white; /* Background color set to white */
+    color: white;
+    padding: 0; /* Remove padding */
+    width: 60px; /* Set width */
+    height: 60px; /* Set height */
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin-right: 5px;
+}
+
+
+
+/* .cart-quantity-wishlist button {
+    background-color: #ffffff;
+}
+
+.cart-quantity-wishlist button:hover {
+    background-color: #ffffff;
+} */
+
