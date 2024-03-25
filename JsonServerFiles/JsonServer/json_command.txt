@@ -1,0 +1,2 @@
+json-server --watch --id prod_no --port 3500 carts_data.json
+json-server --watch --id id --port 3600 subCategories.json
